@@ -24,3 +24,11 @@
 #                                                      #	 
 #******************************************************#        
 ########################################################
+
+Note: You may run the game by installing the packages
+in the .py file, using pip. (You should have python
+installed as well)
+Then, from the terminal, type:
+python pacman.py
+or
+python3 pacman.py
